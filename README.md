@@ -65,7 +65,14 @@ Building applications with AI, 3D technologies, and cloud services.
 
 <img width="100%" src="https://github-contribution-merger.apoorvdarshan.com/api/merge?users=HayatoSuzuki0126,HayatoSuzuki-26&mode=sum&theme=github-dark" alt="Combined GitHub Contributions" />
 
-<sub>Combined activity from personal and work accounts.</sub>
+<br />
+
+**GitHub Statistics**
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HayatoSuzuki0126&show_icons=true&show=reviews,prs_merged&theme=github_dark&hide_border=true" alt="Personal GitHub Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=HayatoSuzuki-26&show_icons=true&show=reviews,prs_merged&theme=github_dark&hide_border=true" alt="Work GitHub Stats" />
+
+<sub>Activity across personal and work accounts.</sub>
 
 </div>
 
